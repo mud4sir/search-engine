@@ -34,3 +34,11 @@ http://localhost:3000/api/v1/search?q=wireless
 > Replace `"wireless"` with any keyword you'd like to search for.
 
 The API will return matching records based on the **name** or **description** fields.
+
+
+
+Use the following command to stop the app with Docker Compose:
+
+```bash
+docker-compose down
+```
