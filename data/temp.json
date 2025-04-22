@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "description": "High-quality noise-canceling headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "createdAt": "2025-04-11T10:00:00.000Z"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with deep bass",
+      "category": "Electronics",
+      "price": 49.99,
+      "createdAt": "2025-04-11T10:01:00.000Z"
+    },
+    {
+      "name": "Smartphone",
+      "description": "Latest model with 5G support",
+      "category": "Electronics",
+      "price": 699.99,
+      "createdAt": "2025-04-11T10:02:00.000Z"
+    }
+  ]
